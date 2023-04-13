@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio projects<br>👯 I’m looking to collaborate on frontend web projects<br>🤝 I’m looking for help with Next Js<br>🌱 I’m currently learning Next Js<br>💬 Ask me about React and Typescript<br>⚡ Fun fact! I'm self taught in a lot of the stuff i usually do, so i'm learning almost every day something new
+🔭 I’m currently working on my portfolio projects<br>👯 I’m looking to collaborate on frontend web projects<br>🌱 I’m currently learning SQL<br>💬 Ask me about React and Typescript<br>⚡ Fun fact! I'm self taught in a lot of the stuff i usually do, so i'm learning almost every day something new
 
 
 ## 🌐 Socials:
