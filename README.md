@@ -2,9 +2,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quantumvflux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quantumvflux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjczOXl4MjJpOXFraXhyZWJ4cmF1cWxzZ3E2NzdkZWxyajJ4MTFvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wd6AYLoOTKv0DCJzHQ/giphy.webp"  />
 </div>
 
 ###
@@ -27,10 +28,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjczOXl4MjJpOXFraXhyZWJ4cmF1cWxzZ3E2NzdkZWxyajJ4MTFvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wd6AYLoOTKv0DCJzHQ/giphy.webp"  />
-
-###
-
 <div align="left">
   <a href="https://discord.com/channels/quantumflux" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -43,15 +40,16 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/quantumflux">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=quantumflux&count=5" alt="Spotify recently played"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=quantumvflux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quantumvflux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/quantumvflux/quantumvflux/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/marcosfloyd73">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=marcosfloyd73&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
