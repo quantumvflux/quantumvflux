@@ -5,12 +5,12 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lhZzZzNzVicnljZnRkYnJmYXlnaDU0bWZwa2YyN3ltc213YTkzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EdknuaSGx7H0Y/giphy.webp"  />
+  <img height="200" src="https://camo.githubusercontent.com/9c22dee149b0151013649c5a84ff2bce6e9496f5e051ea2a52ade1d2b9b7b97b/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457859326c685a7a5a7a4e7a5669636e6c6a5a6e526b596e4a6d59586c6e6144553062575a77613259794e336c746332313359546b7a61435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f45646b6e7561534778374830592f67697068792e77656270"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -28,7 +28,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://discord.com/channels/quantumflux" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
