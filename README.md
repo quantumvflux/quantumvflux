@@ -1,7 +1,3 @@
-<h2 align="center">Hi 👋! My name is Mark and I'm a software engineer from Argentina!</h2>
-
-###
-
 <br clear="both">
 
 <div align="center">
