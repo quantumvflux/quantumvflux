@@ -26,22 +26,22 @@ I integrate AI-assisted engineering tools (**Claude Code, Cursor**) into my dail
 
 ### Selected Systems & Projects
 
-#### [OficiosClick](#) — On-Demand Services Marketplace
+#### [OficiosClick](https://www.oficiosclick.com/) — On-Demand Services Marketplace
 > *Full-stack marketplace connecting clients with specialized home service professionals.*
 - Architected a zero-friction public booking flow without mandatory registration, resolving bot spam and fraudulent inquiries through behavioral validation and rate-limiting.
 - Built end-to-end with **Next.js, TypeScript, NestJS, PostgreSQL**, and transactional payments via **MercadoPago**.
 
-#### [LinkWorlds](#) — Modular Bio-Link & Content Platform
+#### [LinkWorlds](https://linkz-client.vercel.app/auth) — Modular Bio-Link & Content Platform
 > *Customizable web application allowing creators to publish self-hosted link hubs and custom modules.*
 - Implemented extensible theme engines, role-based access control (RBAC), and asset pipelines integrated with **AWS S3**.
 - Built with **React, NestJS, MongoDB**, and structured schema validation via **Zod**.
 
-#### [UiTool & UiTrade](#) — Visual Web & PWA Authoring Engine
+#### [UiTool & UiTrade] — Visual Web & PWA Authoring Engine
 > *SaaS platform featuring a drag-and-drop layout builder with automated code translation.*
 - Engineered state synchronization for multi-step visual canvas editors using **React, TypeScript, dnd-kit**, and **Redux Toolkit**.
 - Integrated conversational AI assistants with real-time token streaming and automated testing with **Jest** and **Cypress**.
 
-#### [Confluencia](#) — Interactive B2B Healthcare Marketing Platform
+#### [Confluencia] — Interactive B2B Healthcare Marketing Platform
 > *High-performance web experience for an enterprise health plan management software company.*
 - Developed responsive, accessible layouts with fluid, scroll-driven micro-interactions powered by **Next.js** and **GSAP**.
 
