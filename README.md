@@ -1,47 +1,57 @@
-<br clear="both">
+# Marcos Baravalle
 
-<div align="center">
- <img height="200" src="https://github.com/user-attachments/assets/bfa4ca9a-fb1c-4c34-b066-22fb1ed6dfb2" />
-</div>
+**Full-Stack Software Engineer** focused on building resilient web applications, distributed backend services, and high-performance interactive interfaces across the TypeScript ecosystem.
 
-###
+[Portfolio](https://www.quantumvflux.site) · [LinkedIn](https://www.linkedin.com/in/marcos-baravalle/) · [Email](mailto:marcosabaravalle@gmail.com)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-</div>
+---
 
-<div align="center">
-  <a href="https://discord.com/channels/quantumflux" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/marcos-baravalle/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+### About
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quantumvflux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=quantumvflux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+Full-stack engineer with 4 years of commercial experience taking software products from architecture to production. My work centers on building scalable web platforms with **React, Next.js, Node.js, NestJS, and PostgreSQL**, with an emphasis on clean architecture, API reliability, and frontend performance.
 
-</div>
+I integrate AI-assisted engineering tools (**Claude Code, Cursor**) into my daily workflow to accelerate iteration cycles while applying zero-trust verification to ensure every line of code meets production standards.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=quantumvflux&theme=catppuccin-frappe"/>
-</div>
-<div align="center">
-  <a href="https://open.spotify.com/user/marcosfloyd73">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=marcosfloyd73&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+---
+
+### Core Competencies
+
+- **Frontend Architecture:** Next.js (App Router, Server Components, SSR/SSG), React, TypeScript, state machines (Zustand, Redux Toolkit), Tailwind CSS, accessible UI systems (WCAG 2.1).
+- **Interactive & Motion Engineering:** GSAP scroll-driven animations, Three.js 3D web experiences, performance optimization, Core Web Vitals.
+- **Backend & APIs:** Node.js, NestJS, Express.js, RESTful APIs, GraphQL, webhook architectures, authentication (OAuth 2.0, JWT).
+- **Data & Storage:** PostgreSQL (schema design, Prisma ORM, migrations, indexing), MongoDB, Redis, Supabase.
+- **Infrastructure & Testing:** Docker, AWS (S3), GitHub Actions (CI/CD), Jest, Vitest, Cypress (E2E), Sentry, structured observability.
+
+---
+
+### Selected Systems & Projects
+
+#### [OficiosClick](#) — On-Demand Services Marketplace
+> *Full-stack marketplace connecting clients with specialized home service professionals.*
+- Architected a zero-friction public booking flow without mandatory registration, resolving bot spam and fraudulent inquiries through behavioral validation and rate-limiting.
+- Built end-to-end with **Next.js, TypeScript, NestJS, PostgreSQL**, and transactional payments via **MercadoPago**.
+
+#### [LinkWorlds](#) — Modular Bio-Link & Content Platform
+> *Customizable web application allowing creators to publish self-hosted link hubs and custom modules.*
+- Implemented extensible theme engines, role-based access control (RBAC), and asset pipelines integrated with **AWS S3**.
+- Built with **React, NestJS, MongoDB**, and structured schema validation via **Zod**.
+
+#### [UiTool & UiTrade](#) — Visual Web & PWA Authoring Engine
+> *SaaS platform featuring a drag-and-drop layout builder with automated code translation.*
+- Engineered state synchronization for multi-step visual canvas editors using **React, TypeScript, dnd-kit**, and **Redux Toolkit**.
+- Integrated conversational AI assistants with real-time token streaming and automated testing with **Jest** and **Cypress**.
+
+#### [Confluencia](#) — Interactive B2B Healthcare Marketing Platform
+> *High-performance web experience for an enterprise health plan management software company.*
+- Developed responsive, accessible layouts with fluid, scroll-driven micro-interactions powered by **Next.js** and **GSAP**.
+
+---
+
+### Contact & Collaboration
+
+Open to full-time remote software engineering roles, independent contracting, and ambitious product builds.
+
+- **Website:** [quantumvflux.site](https://www.quantumvflux.site)
+- **LinkedIn:** [linkedin.com/in/marcos-baravalle](https://www.linkedin.com/in/marcos-baravalle/)
+- **Email:** [marcosabaravalle@gmail.com](mailto:marcosabaravalle@gmail.com)
+- **Location:** Argentina (UTC-3 / Flexible overlap with US & European timezones)
